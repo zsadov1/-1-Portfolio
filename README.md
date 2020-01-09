@@ -8,7 +8,7 @@ As a web developer, I need to a portfolio site deployed that will show my skills
 
 ![Portfolio Site](images/Portfolio.png)
 ![Portfolio Site](images/Projects.png)
-![Portfolio Site](images/Contact.png)
+![Portfolio Site ](images/Contact.png)
 
 ## Credits
 
